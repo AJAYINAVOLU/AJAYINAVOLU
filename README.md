@@ -15,19 +15,54 @@
 - 💞️ My passion lies in crafting efficient, cloud-native applications by integrating modern backend architectures with AI and real-time data processing techniques. I enjoy optimizing performance, enhancing system scalability, and leveraging automation to streamline workflows.
 - 🌱 I’m currently exploring LLMs, Retrieval-Augmented Generation (RAG), and model training using AWS SageMaker to integrate AI-powered insights into software applications. 
 
-## Contact details
+<!-- ## Contact details
 <p>
   
 <b>Connect with me on [![Linkedin: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayinavolu/) and let's have a chat!</b>
 <br><i>or</i><br>
 <b>You can reach out to me on [![Gmail: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-ajay.inavolu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajay.inavolu@gmail.com) 
 [![Outlook: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-inavolu.a@northeastern.edu-blue)](mailto:inavolu.a@northeastern.edu)
-</p>
+</p> -->
+
+## Contact details
+
+<p float="left">
+
+<table>
+  <tr>
+  <td> 
+  
+  [![Outlook: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-inavolu.a@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:inavolu.a@northeastern.edu)
+  
+  </td>
+
+  <td> 
+  
+  [![Linkedin: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayinavolu/)
+  
+  </td>
+  
+
+  <td> 
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://leelakrishna2091997.github.io)
+  
+  </td>
+
+
+  <td> 
+  
+  [![Gmail: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-ajay.inavolu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajay.inavolu@gmail.com)
+  
+  </td>
+
+  </tr>
+</table>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajayinavolu&theme=default" alt="Ajay's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayinavolu&show_icons=true&theme=tokyonight" alt="Ajay's stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajayinavolu&theme=default" alt="Ajay's stats" />
 </p>
 
@@ -78,9 +113,15 @@
   <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
 </p>
 
+### Big Data Frameworks
+<p float="left"> 
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
+<img alt="Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+
+</p>
 
 
-### Web Developer
+### Web Development
 <p float="left">
   <img alt="React Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -91,20 +132,72 @@
   
 </p>
 
+### Back-End Frameworks
+<p float="left">
+
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<!-- <img alt="Nest Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/> -->
+<img alt="Fast API" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="SPRING BOOT" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img alt="Graph QL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img alt="Express Js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+
+</p>
+
+### Testing Frameworks
+<p float="left">
+
+<img alt = "JEST" src = "https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+<img alt = "MOCHA" src = "https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
+<img alt = "SELENIUM" src= "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+<img alt = "Cypress" src= "https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+
+</p>
+
+### Documentation, Logging Tools
+<p float="left">
+
+<!-- <img alt = "" src = ""> -->
+<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
+<img alt = "Swagger" src = "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+<img alt = "Grafana" src = "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+<img alt = "ElasticSearch" src = "https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
+<img alt = "Confluence" src = "https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+</p>
+
 ### Database
 <p float="left">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"/>
 <img alt="Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 <img alt="Cassandra" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img alt="Hibernate" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </p>
 
-### Cloud and Hosting
+### Cloud Platforms & Tools
 <p float="left">
+<!-- <img alt = "" src = ""> -->
+<img alt = "AIR FLOW" src = "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+<img alt = "SONAR QUBE" src = "https://img.shelds.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD">
+<img alt = "TERRAFORM" src = "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+<img alt = "CLOUDFLARE" src = "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+
+
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-FFEACA?style=for-the-badge&logo=Amazon&logoColor=white%22"/>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>                                                                                  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-4285F4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+  
+  
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img alt = "JENKINS" src = "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+
 </p>
 
   

@@ -1,40 +1,38 @@
 <!-- README Intro -->
-<h2 align='center'>Hello! I am AJAY <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
+<h2 align='center'>Hello! I am Ajay Kumar Reddy Inavolu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="15px"></h2>
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Machine-learning+Engineer;;Full-stack+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A2595&random=false&width=435&lines=Full-stack+Developer">
   </a>
 </h1>
-<!-- <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/jayantha-nanduri/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-</h5> -->
+
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-- 👋 Hi, I’m Jayantha Nanduri currently pursuing Master's in Computer Science at Northeastern University, Boston.
-- 👀 Machine Learning Engineer with 3+ years of experience in Banking and Financial Technology. Skilled in developing scalable, efficient cloud-based Machine Learning projects using Python, PyTorch, Node.js, Docker, Kubernetes, and AWS.
-- 💞️ My passion lies in applying the comprehensive knowledge I've accumulated in machine learning to address real-world challenges effectively. I am particularly interested in integrating machine learning techniques with traditional algorithms to achieve significant performance improvements.
-- 🌱 I’m currently learning about LLMs, RAGs and how to trian them using AWS SageMaker. 
-<!-- ##- 📫 How to reach me: Connect with me on <a href="https://www.linkedin.com/in/jayantha-nanduri/" target="_blank">LinkedIn</a> or send me an email at <a href="mailto:jayantha.nanduri@gmail.com">jayantha.nanduri@gmail.com</a>. I'm open to exploring opportunities for data projects and collaborations! -->
+- 👋 Hi, I’m Ajay Kumar Reddy Inavolu currently pursuing Master's in Computer Science at Northeastern University, Boston.
+- 👀 Full Stack Software Engineer with expertise in building scalable, high-performance microservices and real-time data processing solutions. Skilled in Java, Spring Boot, React, Node.js, Next.js, Docker, Kubernetes, and AWS, with experience in designing and deploying distributed cloud and AI-driven platforms.
+- 💞️ My passion lies in crafting efficient, cloud-native applications by integrating modern backend architectures with AI and real-time data processing techniques. I enjoy optimizing performance, enhancing system scalability, and leveraging automation to streamline workflows.
+- 🌱 I’m currently exploring LLMs, Retrieval-Augmented Generation (RAG), and model training using AWS SageMaker to integrate AI-powered insights into software applications. 
+
 ## Contact details
 <p>
   
-<b>Connect with me on [![Linkedin: Jayantha Nanduri](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayantha-nanduri/) and let's have a chat!</b>
+<b>Connect with me on [![Linkedin: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajayinavolu/) and let's have a chat!</b>
 <br><i>or</i><br>
-<b>You can reach out to me on [![Gmail: Jayantha Nanduri](https://img.shields.io/badge/-jayantha.nanduri@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jayantha.nanduri@gmail.com)
+<b>You can reach out to me on [![Gmail: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-ajay.inavolu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajay.inavolu@gmail.com) 
+[![Outlook: Ajay Kumar Reddy Inavolu](https://img.shields.io/badge/-inavolu.a@northeastern.edu-blue)](mailto:inavolu.a@northeastern.edu)
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
 <p align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaynanduri&theme=default" alt="Jayantha's stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaynanduri&theme=default" alt="Jayantha's stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajayinavolu&theme=default" alt="Ajay's stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajayinavolu&theme=default" alt="Ajay's stats" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaynanduri" alt="Jayantha's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajayinavolu" alt="Ajay's streak" />
 </p>
 
 <!-- <div align="center">
@@ -50,25 +48,20 @@
   <br />
 </div>-->
 
-<!-- ## Trophies
-<details><summary>Discover</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=dileepkanumuri&column=7&theme=gruvbox&no-frame=true"/>
-</details> -->
-
 ## Skills
 
 ### Languages
-<p float="left">
-<img alt="Python" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
- <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
                                                                                            
 ### Data Science
 
@@ -135,4 +128,4 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=jaynanduri&color=green)
+![](https://komarev.com/ghpvc/?username=ajayinavolu&color=green)
